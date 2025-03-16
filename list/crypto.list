@@ -1,0 +1,42 @@
+#Crypto exchanges DOMAIN Name
+
+# NAME: OKX
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,oklink.com
+DOMAIN-SUFFIX,okx.com
+
+# NAME: Binance
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-07-03 16:17:44
+# DOMAIN-SUFFIX: 12
+# TOTAL: 12
+DOMAIN-SUFFIX,appsflayer.com
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binancecnt.com
+DOMAIN-SUFFIX,binancefuture.com
+DOMAIN-SUFFIX,bnappzh.co
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bnbzh.ac
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,saasexch.cc
+DOMAIN-SUFFIX,saasexch.com
+
+# NAME: MEXC
+DOMAIN-SUFFIX,mexc.com
+DOMAIN-SUFFIX,mexc.global
+DOMAIN-SUFFIX,mexc.io
+
+# NAME: Bybit
+DOMAIN-SUFFIX,bybit.com
+
+# NAME: Bitget
+DOMAIN-SUFFIX,bitget.com
+
+# NAME: Gate
+DOMAIN-SUFFIX,gate.io
+
+DOMAIN-SUFFIX,tronlink.org
